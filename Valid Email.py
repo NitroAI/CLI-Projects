@@ -33,4 +33,4 @@ while (True):
     else:
         print(">> wrong email 1")
 
-print("Subscribe My YouTube Channe")
+print("Subscribe My YouTube Channe :)")
